@@ -85,8 +85,8 @@ I used ChatGPT as a learning tool while working on this project. It helped me un
 ## How to Run
 
 1. Download the Python file from this repository.
-2. Open the file in a Python IDE that supports Turtle graphics, such as IDLE or Thonny.
-3. Run the program using Python 3.
+2. Open the file in a Python IDE that supports Turtle graphics.
+3. Run the program: project_1.py
 4. A Turtle graphics window will open and display Oliver with the rainbow behind him.
 5. Click anywhere in the window to close the program.
 

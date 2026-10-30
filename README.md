@@ -1,4 +1,4 @@
-# Oliver the Cat Art with Python Turtle
+# Oliver the Cat - Python Turtle Art Project.
 
 ## Project Description
 

@@ -79,7 +79,7 @@ Finally, I used `t.write()` to add his name below the drawing.
 
 ## AI Assistance
 
-I used ChatGPT as a learning tool while working on this project. It helped me understand how Turtle coordinates work and visualize where different points should be placed to create Oliver's features, especially his ears. However, I still had to experiment with different coordinates and make several adjustments myself to achieve the precise positioning I wanted.
+I used ChatGPT as a learning tool while working on this project. It helped me understand how Turtle coordinates work and visualize where different points should be placed to create Oliver's features. However, I still had to experiment with different coordinates and make several adjustments myself to achieve the precise positioning I wanted.
 
 
 ## How to Run
@@ -87,7 +87,7 @@ I used ChatGPT as a learning tool while working on this project. It helped me un
 1. Download the Python file from this repository.
 2. Open the file in a Python IDE that supports Turtle graphics.
 3. Run the program: project_1.py
-4. A Turtle graphics window will open and display Oliver with the rainbow behind him.
+4. A Turtle graphics window will open and display the drawing.
 5. Click anywhere in the window to close the program.
 
 ## Author

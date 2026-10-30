@@ -2,7 +2,7 @@
 
 ## Project Description
 
-For my COMP 115 project, I decided to draw my cat, Oliver, using Python's Turtle graphics library. I wanted to create something personal while also applying the programming concepts we've learned throughout the semester. My goal was to draw Oliver using simple geometric shapes and then add a colorful background.
+For my COMP 115 project, I decided to draw my cat, Oliver, using Python's Turtle graphics library. My goal was to draw Oliver using simple geometric shapes and then add a colorful background.
 
 <img width="490" height="317" alt="image" src="https://github.com/user-attachments/assets/02fecd58-7e96-4711-9f52-50551aef90c9" />
 
